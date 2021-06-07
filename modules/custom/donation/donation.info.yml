@@ -1,0 +1,8 @@
+name: Donation
+description: Feature to create Donation item.
+core: 8.x
+package: Custom
+type: module
+
+
+
